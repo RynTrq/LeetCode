@@ -1,27 +1,28 @@
 class Solution {
-public:
-    void DFSTraversal(vector<vector<int>>& isConnected, vector<bool>& isVisited, int crnt){
-        for(int j=0; j<isConnected.size(); j++){
-            if(!isVisited[j] && isConnected[crnt][j]){
-                isVisited[j] = true;
-                DFSTraversal(isConnected, isVisited, j);
+private:
+    void dfs(int city, vector<vector<int>>& isConnected, vector<bool>& visited) {
+        visited[city] = true;
+
+        for (int j = 0; j < isConnected.size(); j++) {
+            if (isConnected[city][j] == 1 && !visited[j]) {
+                dfs(j, isConnected, visited);
             }
         }
     }
-    
+
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int provs = 0;
+        int n = isConnected.size();
+        vector<bool> visited(n, false);
+        int provinces = 0;
 
-        vector<bool> isVisited(isConnected.size(), false);
-
-        for(int i=0; i<isConnected.size(); i++){
-            if(!isVisited[i]){
-                provs++;
-                isVisited[i] = true;
-                DFSTraversal(isConnected, isVisited, i);
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                dfs(i, isConnected, visited);
+                provinces++;
             }
         }
 
-        return provs;
+        return provinces;
     }
 };

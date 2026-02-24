@@ -14,9 +14,22 @@ Problems of Leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/RynTrq/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/RynTrq/LeetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/RynTrq/LeetCode/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RynTrq/LeetCode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RynTrq/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RynTrq/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

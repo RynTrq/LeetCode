@@ -11,6 +11,7 @@ Problems of Leetcode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RynTrq/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RynTrq/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0695-max-area-of-island](https://github.com/RynTrq/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/RynTrq/LeetCode/tree/master/0994-rotting-oranges) |
@@ -51,4 +52,12 @@ Problems of Leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RynTrq/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ Problems of Leetcode
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RynTrq/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/RynTrq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/RynTrq/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
@@ -66,4 +67,12 @@ Problems of Leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RynTrq/LeetCode/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RynTrq/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RynTrq/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

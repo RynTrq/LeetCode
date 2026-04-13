@@ -10,6 +10,7 @@ Problems of Leetcode
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RynTrq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/RynTrq/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RynTrq/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -59,5 +60,10 @@ Problems of Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RynTrq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RynTrq/LeetCode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RynTrq/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
